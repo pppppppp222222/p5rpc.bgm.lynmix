@@ -1,0 +1,15 @@
+C:\Users\conno\Desktop\Media\Reloaded-II\Mods\p5rpc.bgm.lynmix\Preview.png
+C:\Users\conno\Desktop\Media\Reloaded-II\Mods\p5rpc.bgm.lynmix\ModConfig.json
+C:\Users\conno\Desktop\Media\Reloaded-II\Mods\p5rpc.bgm.lynmix\p5rpc.bgm.lynmix.deps.json
+C:\Users\conno\Desktop\Media\Reloaded-II\Mods\p5rpc.bgm.lynmix\p5rpc.bgm.lynmix.dll
+C:\Users\conno\Desktop\Media\Reloaded-II\Mods\p5rpc.bgm.lynmix\p5rpc.bgm.lynmix.pdb
+C:\Users\conno\p5rpc.bgm.lynmix\obj\Debug\p5rpc.bgm.lynmix.csproj.AssemblyReference.cache
+C:\Users\conno\p5rpc.bgm.lynmix\obj\Debug\p5rpc.bgm.lynmix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conno\p5rpc.bgm.lynmix\obj\Debug\p5rpc.bgm.lynmix.AssemblyInfoInputs.cache
+C:\Users\conno\p5rpc.bgm.lynmix\obj\Debug\p5rpc.bgm.lynmix.AssemblyInfo.cs
+C:\Users\conno\p5rpc.bgm.lynmix\obj\Debug\p5rpc.bgm.lynmix.csproj.CoreCompileInputs.cache
+C:\Users\conno\p5rpc.bgm.lynmix\obj\Debug\p5rpc.bg.9BF0CD4A.Up2Date
+C:\Users\conno\p5rpc.bgm.lynmix\obj\Debug\p5rpc.bgm.lynmix.dll
+C:\Users\conno\p5rpc.bgm.lynmix\obj\Debug\refint\p5rpc.bgm.lynmix.dll
+C:\Users\conno\p5rpc.bgm.lynmix\obj\Debug\p5rpc.bgm.lynmix.pdb
+C:\Users\conno\p5rpc.bgm.lynmix\obj\Debug\ref\p5rpc.bgm.lynmix.dll
